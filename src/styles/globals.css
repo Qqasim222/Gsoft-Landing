@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  /* width: 1150px; */
+}
+/* body {
+  width: 1150px;
+} */
+
+.css-17jfyhd-MuiButtonBase-root-MuiListItemButton-root {
+  padding-top: 1px !important;
+  padding-bottom: 1px !important;
+}
+
+.css-1dsi8l5-MuiButtonBase-root-MuiButton-root {
+  padding: 1px 25px !important;
+}
+
+.css-1ygdza7-MuiTypography-root {
+  color: black !important;
+}
+
+.MuiFormHelperText-root {
+  color: red !important;
+}
+
+.markdown {
+  white-space: pre-line;
+}
